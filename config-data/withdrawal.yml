@@ -9,4 +9,4 @@ spring:
           default-label: master
           uri: https://github.com/banking-nttdata-bootcamp/withdrawal
   application:
-    name: consumption
+    name: withdrawal
