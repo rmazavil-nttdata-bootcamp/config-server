@@ -1,0 +1,15 @@
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://bootcamp:eo4IaJNIbjk4f8ls@cluster0.hlzdcri.mongodb.net/bankingBusiness?retryWrites=true&w=majority
+  cloud:
+    config:
+      server:
+        git:
+          default-label: master
+          uri: https://github.com/jhonatan-maza/bootcamp-customer
+  application:
+    name: bootcamp-customer
+
+
