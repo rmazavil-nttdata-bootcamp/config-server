@@ -7,6 +7,6 @@ spring:
       server:
         git:
           default-label: master
-          uri: https://github.com/jhonatan-maza/bootcamp-payment
+          uri: https://github.com/banking-nttdata-bootcamp/deposit
   application:
-    name: bootcamp-payment
+    name: deposit

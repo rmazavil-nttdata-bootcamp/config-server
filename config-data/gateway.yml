@@ -4,6 +4,6 @@ spring:
       server:
         git:
           default-label: master
-          uri: https://github.com/jhonatan-maza/bootcamp-gateway
+          uri: https://github.com/banking-nttdata-bootcamp/gateway
   application:
-    name: bootcamp-gateway
+    name: gateway

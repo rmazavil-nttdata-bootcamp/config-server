@@ -7,6 +7,6 @@ spring:
       server:
         git:
           default-label: master
-          uri: https://github.com/jhonatan-maza/bootcamp-passive
+          uri: https://github.com/banking-nttdata-bootcamp/passive
   application:
-    name: bootcamp-passive
+    name: passive

@@ -13,7 +13,7 @@ spring:
       server:
          git:
           default-label: master
-          uri: https://github.com/jhonatan-maza/bootcamp-config-server
+          uri: https://github.com/banking-nttdata-bootcamp/config-server-directory
           search-paths: config-data
       
           

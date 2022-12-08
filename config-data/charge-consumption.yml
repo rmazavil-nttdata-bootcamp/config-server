@@ -7,6 +7,6 @@ spring:
       server:
         git:
           default-label: master
-          uri: https://github.com/jhonatan-maza/bootcamp-charge-consumption
+          uri: https://github.com/banking-nttdata-bootcamp/charge-consumption
   application:
-    name: bootcamp-charge-consumption
+    name: charge-consumption

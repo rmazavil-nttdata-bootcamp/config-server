@@ -1,4 +1,3 @@
-
 spring:
   data:
     mongodb:
@@ -8,8 +7,6 @@ spring:
       server:
         git:
           default-label: master
-          uri: https://github.com/jhonatan-maza/bootcamp-customer
+          uri: https://github.com/banking-nttdata-bootcamp/active
   application:
-    name: bootcamp-customer
-
-
+    name: active
