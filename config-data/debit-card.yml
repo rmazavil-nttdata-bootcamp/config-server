@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://bootcamp:eo4IaJNIbjk4f8ls@cluster0.hlzdcri.mongodb.net/debit-card?retryWrites=true&w=majority
+  cloud:
+    config:
+      server:
+        git:
+          default-label: master
+          uri: https://github.com/banking-nttdata-bootcamp/debit-card
+  application:
+    name: debit-card
