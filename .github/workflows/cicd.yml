@@ -28,7 +28,7 @@ jobs:
       - name: Build & push Docker image
         uses: mr-smithers-excellent/docker-build-push@v5
         with:
-          image: dknttdata-config-server/ntt-config-server
+          image: jhonatanmaza/dknttdata-config-server
           tags: latest
           registry: docker.io
           dockerfile: Dockerfile
