@@ -27,6 +27,11 @@ DIANA CAROLINA MALDONADO FLORES
 ------------------------------------------------------
 SEMANA 4
 
+
+------------------------------------------------------
+ScreenShot
+
+![ScreenShot](https://github.com/banking-nttdata-bootcamp/config-server-directory/blob/master/images/drawio.png)
 ![ScreenShot](https://github.com/banking-nttdata-bootcamp/config-server-directory/blob/master/images/MongoDB-Atlas.png)
 ![ScreenShot](https://github.com/banking-nttdata-bootcamp/config-server-directory/blob/master/images/eureka-server.png)
 ![ScreenShot](https://github.com/banking-nttdata-bootcamp/config-server-directory/blob/master/images/swagger-api.png)
