@@ -11,10 +11,11 @@ spring:
   cloud:
     config:
       server:
-         git:
+        git:
           default-label: master
           uri: https://github.com/banking-nttdata-bootcamp/config-server-directory
-          search-paths: config-data
+          #search-paths: config-data-prod
+          search-paths: config-data-dev
       
           
 
