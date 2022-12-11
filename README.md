@@ -3,42 +3,34 @@
 
 Integrantes:
 
+------------------------------------------------------
 SEMANA 1
 
-LULIO ARTURO HERRERA MESTANZA
+RUBEN JONATAN MAZA VILCHEZ
 
-JOFFRE HERMOSILLA SALAS
+DIANA CAROLINA MALDONADO FLORES
 
+------------------------------------------------------
 SEMANA 2
 
-SEGUNDO WILLIAM GUZMAN CORREA
+RUBEN JONATAN MAZA VILCHEZ
 
-JOFFRE HERMOSILLA SALAS
+DIANA CAROLINA MALDONADO FLORES
 
-
+------------------------------------------------------
 SEMANA 3
 
-JOFFRE HERMOSILLA SALAS
+RUBEN JONATAN MAZA VILCHEZ
 
-DANIEL AUGUSTO PRADO CUSSI
+DIANA CAROLINA MALDONADO FLORES
 
+------------------------------------------------------
 SEMANA 4
 
-JOFFRE HERMOSILLA SALAS
-
-ROBERTO JAISON JUAREZ VARGAS
 
 
-
-
-
-![ScreenShot](https://github.com/joffrehermosilla/semana2/blob/master/Diagrama%20de%20Microservicios%20solucion%20semana2.drawio.png) 
+![ScreenShot](https://github.com/banking-nttdata-bootcamp/config-server-directory/blob/master/images/docker-hub-1.png)
+![ScreenShot](https://github.com/banking-nttdata-bootcamp/config-server-directory/blob/master/images/docker-hub-2.png)
 
 
 
-
-![ScreenShot](https://github.com/joffrehermosilla/semana2/blob/master/continuacion%20de%20entregables.drawio.png) 
-
-
-
-![ScreenShot](https://github.com/joffrehermosilla/semana2/blob/master/tercera%20evidencia%20de%20entregables%20bootcamp.png)
