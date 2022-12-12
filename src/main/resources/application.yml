@@ -14,8 +14,9 @@ spring:
         git:
           default-label: master
           uri: https://github.com/banking-nttdata-bootcamp/config-server-directory
-          #search-paths: config-data-prod
-          search-paths: config-data-dev
+          search-paths: config-data-prod
+          #search-paths: config-data-docker
+          #search-paths: config-data-dev
       
           
 
