@@ -39,6 +39,6 @@ ScreenShot
 ![ScreenShot](https://github.com/banking-nttdata-bootcamp/config-server-directory/blob/master/images/docker-2.jpeg)
 ![ScreenShot](https://github.com/banking-nttdata-bootcamp/config-server-directory/blob/master/images/docker-hub-1.png)
 ![ScreenShot](https://github.com/banking-nttdata-bootcamp/config-server-directory/blob/master/images/docker-hub-2.png)
-
+![ScreenShot](https://github.com/banking-nttdata-bootcamp/config-server-directory/blob/master/images/azure.png)
 
 
