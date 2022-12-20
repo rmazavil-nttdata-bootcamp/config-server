@@ -27,6 +27,9 @@ DIANA CAROLINA MALDONADO FLORES
 ------------------------------------------------------
 SEMANA 4
 
+RUBEN JONATAN MAZA VILCHEZ
+
+DIANA CAROLINA MALDONADO FLORES
 
 ------------------------------------------------------
 ScreenShot
